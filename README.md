@@ -10,8 +10,9 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 
-
-![calcus](https://user-images.githubusercontent.com/37981377/151218222-7e084b6b-1c0f-42ba-b7a4-44e62bbf14f7.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37981377/151218222-7e084b6b-1c0f-42ba-b7a4-44e62bbf14f7.png" width="225" height="455">
+</p>
 
 
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
